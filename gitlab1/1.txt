@@ -1,1 +1,9 @@
 hello!!
+
+git add .
+git commit -m "first lab program"
+
+in git bash ----> git config --global user.name "your github acc"
+                  git config --global user.mail "abc@.mail"
+
+git push                  
