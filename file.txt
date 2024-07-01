@@ -1,2 +1,6 @@
 initial content
+<<<<<<< Updated upstream
 Feature branch changes
+=======
+some changes
+>>>>>>> Stashed changes
